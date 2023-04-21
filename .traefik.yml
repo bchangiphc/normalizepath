@@ -1,0 +1,6 @@
+displayName: Normalize path
+type: middleware
+import: github.com/bchangiphc/normalizepath
+summary: Transforms the path to lowercase and adds a trailing slash
+testData: #no test data needed
+  unused: var
